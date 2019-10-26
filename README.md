@@ -1,6 +1,6 @@
 # Various-School-Projects
 
-This repository is for various projects scattered about from my Nanodegree program and Masters in Data Analytics. Here I only chose to pull examples that have some self-defined context as much of the work done was scattered across interconnected jupyter notebook prompts. A couple of other things done during the school era worth checking out are in there own repositories:  My rather lengthy "guide" with examples on [statistics in Python](https://github.com/Joshkking/Python-Statistics) and an also fairly lengthy set of [SQL examples and problems](https://github.com/Joshkking/SQL-Examples) I made.
+This repository is for various projects scattered about from my Nanodegree program and Masters in Data Analytics. Here I only chose to pull examples that have some self-defined context as much of the work done was scattered across interconnected jupyter notebook prompts. A couple of other things done during the school era worth checking out are in there own repositories:  My rather **lengthy "guide" with examples on [statistics in Python](https://github.com/Joshkking/Python-Statistics)** and an also fairly lengthy **set of [SQL examples and problems](https://github.com/Joshkking/SQL-Examples)** I made.
 
 Regarding the actual items in this repository, a very brief explanation of each follows with **the bold ones probably more worth checking out**:
 * Basic Tableau Work - One simple project on choosing the right car (creating a dashboard for this) and another example workbook showing unintuitive Tableau exercises.
