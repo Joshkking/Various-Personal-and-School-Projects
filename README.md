@@ -8,3 +8,4 @@ Regarding the actual items in this repository, a very brief explanation of each 
 * Simple Movie Database Investigation - An early-on simple data analysis project from start to finish
 * Simple R Work - A very, very simple and short linear regression script (nothing fancy here)
 * **Web Scrape Work** - A couple of projects - one simply that of a unique link scraper, the other a much more funn **Twitter API scrape and analysis of the WeRateDogs account**
+* AB Test Example - Less a "project" than a sort of fill-in-the-blank guide on doing an A/B test on a website visit using bootstrap and statistical testing as well as logistic regression.
