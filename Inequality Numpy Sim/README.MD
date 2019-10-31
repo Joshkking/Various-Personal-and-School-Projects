@@ -1,3 +1,0 @@
-# Inequality Sim
-
-asdfasdfasd
