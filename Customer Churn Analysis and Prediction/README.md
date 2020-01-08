@@ -6,3 +6,5 @@ The included files are:
 * Csv file -- The initial dataset used in the project
 * Ipynb file -- The code used in the project in the format of a Jupyter notebook
 * Html file -- The same Jupyter notebook file as an html print-out for ease of viewing.
+
+**Note**: At the moment the a couple of the ROC curves are off as they are using the predicted classes rather than the predicted probabilities as inputs (you'll notice they don't have a smooth curve). Hope to fix those later.
