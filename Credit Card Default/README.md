@@ -10,4 +10,4 @@ In the least, it provides an example of model building (and hyperparameter tunin
 * Linear Discriminant Analysis
 * Neural Net/Multilayer Perceptron
 
-The included files are the Juyper Notebook created, an html printout of the notebook for ease of viewing (download and view in any browser, or for convenience [click here](https://nbviewer.jupyter.org/github/Joshkking/Various-Personal-and-School-Projects/blob/master/Credit%20Card%20Default/Credit_Card_Default.ipynb#Random-Forest), the dataset used, and a csv file representing the resultant scores.
+The included files are the Juyper Notebook created, an html printout of the notebook for ease of viewing (download and view in any browser, or for convenience [click here](https://nbviewer.jupyter.org/github/Joshkking/Various-Personal-and-School-Projects/blob/master/Credit%20Card%20Default/Credit_Card_Default.ipynb#Random-Forest)), the dataset used, and a csv file representing the resultant scores.
