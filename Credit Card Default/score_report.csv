@@ -1,0 +1,43 @@
+Score,Score_Type,Model,Feature_Set,Parameters
+0.818333333,accuracy,random forest,b,"{'criterion': 'gini', 'max_depth': None, 'max_features': 2, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.3639789,recall,random forest,b,"{'criterion': 'gini', 'max_depth': None, 'max_features': 2, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.768291397,roc auc,random forest,b,"{'criterion': 'gini', 'max_depth': None, 'max_features': 2, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.8175,accuracy,random forest,a,"{'criterion': 'gini', 'max_depth': None, 'max_features': 4, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.354935946,recall,random forest,a,"{'criterion': 'gini', 'max_depth': None, 'max_features': 4, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.775239148,roc auc,random forest,a,"{'criterion': 'gini', 'max_depth': None, 'max_features': 4, 'min_samples_split': 0.01, 'n_estimators': 500, 'random_state': 42}"
+0.814333333,accuracy,knn,b,"{'n_neighbors': 27, 'p': 2}"
+0.346646571,recall,knn,b,"{'n_neighbors': 27, 'p': 2}"
+0.750156384,roc auc,knn,b,"{'n_neighbors': 27, 'p': 2}"
+0.811166667,accuracy,knn,a,"{'n_neighbors': 27, 'p': 1}"
+0.311981914,recall,knn,a,"{'n_neighbors': 27, 'p': 1}"
+0.744324811,roc auc,knn,a,"{'n_neighbors': 27, 'p': 1}"
+0.4115,accuracy,naive bayes,b,None
+0.826676714,recall,naive bayes,b,None
+0.662779462,roc auc,naive bayes,b,None
+0.672,accuracy,naive bayes,a,None
+0.492840995,recall,naive bayes,a,None
+0.628508204,roc auc,naive bayes,a,None
+0.809166667,accuracy,discriminant analysis,b,None
+0.235116805,recall,discriminant analysis,b,None
+0.701663713,roc auc,discriminant analysis,b,None
+0.808166667,accuracy,discriminant analysis,a,None
+0.251695554,recall,discriminant analysis,a,None
+0.703158051,roc auc,discriminant analysis,a,None
+0.815833333,accuracy,neural net,b,"{'alpha': 0.1, 'hidden_layer_sizes': (25,), 'max_iter': 1000, 'solver': 'adam'}"
+0.375282592,recall,neural net,b,"{'alpha': 0.1, 'hidden_layer_sizes': (25,), 'max_iter': 1000, 'solver': 'adam'}"
+0.765170968,roc auc,neural net,b,"{'alpha': 0.1, 'hidden_layer_sizes': (25,), 'max_iter': 1000, 'solver': 'adam'}"
+0.816166667,accuracy,neural net,a,"{'alpha': 0.1, 'hidden_layer_sizes': (47,), 'max_iter': 1000, 'solver': 'adam'}"
+0.397136398,recall,neural net,a,"{'alpha': 0.1, 'hidden_layer_sizes': (47,), 'max_iter': 1000, 'solver': 'adam'}"
+0.772383029,roc auc,neural net,a,"{'alpha': 0.1, 'hidden_layer_sizes': (47,), 'max_iter': 1000, 'solver': 'adam'}"
+0.809166667,accuracy,logistic regression,b,"{'C': 0.01, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.239638282,recall,logistic regression,b,"{'C': 0.01, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.706908452,roc auc,logistic regression,b,"{'C': 0.01, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.808666667,accuracy,logistic regression,a,"{'C': 0.1, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.240391861,recall,logistic regression,a,"{'C': 0.1, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.709109926,roc auc,logistic regression,a,"{'C': 0.1, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}"
+0.503666667,accuracy,chance model 50-50,not applicable,not applicable
+0.512434062,recall,chance model 50-50,not applicable,not applicable
+0.5,roc auc,chance model 50-50,not applicable,not applicable
+0.646,accuracy,chance model by frequency,not applicable,not applicable
+0.198191409,recall,chance model by frequency,not applicable,not applicable
+0.5,roc auc,chance model by frequency,not applicable,not applicable
