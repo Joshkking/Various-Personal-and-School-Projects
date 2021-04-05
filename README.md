@@ -12,5 +12,6 @@ Regarding the actual items in this repository, a very brief explanation of each 
 * Old Javascript - A terrible old remainder piece of javascript from a website I made previously stored here simply as a memorabilia and there is no where else to put it. See readme for info.
 * Simple Movie Database Investigation - An early-on simple data analysis project from start to finish
 * Simple R Work - A very, very simple and short linear regression script (nothing fancy here)
+* **Twitter Disaster Prediction** - My first NLP project. Had a number of faults for this, but I tried to be very rigorous in my logic and exploration. Had alright results!
 * Wealth Inequality Numpy Sim - A very quick simulation showing how free-market exchanges must tend towards *extreme* wealth inequality over time even when chance is the only relevant factor (the "yard sale" model in economics). Just an interesting thing I was reading online and wanted to try myself.
 * **Web Scrape Work** - A couple of projects - one simply that of a unique link scraper, the other a much more funn **Twitter API scrape and analysis of the WeRateDogs account**
